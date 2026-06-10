@@ -24,9 +24,6 @@ O pipeline do projeto está estruturado em quatro grandes pilares analíticos in
 3. **Cuidado Humanizado:** Sessões estruturadas com foco em autorreflexão, ressignificação de experiências e o uso de intervenções integrativas para fortalecimento do bem-estar , qualidade de vida e valorização pessoal da paciente.
 4. **Bioinformatics & Data Science:** Centralização, processamento e modelagem estatística de dados clínicos utilizando a **Linguagem R**.
 
----
-
-## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 * **Linguagem Principal:** ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) para análise estatística, bioinformática e visualização de dados.
 * **Controle de Versão:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) para documentação e reprodutibilidade científica.
