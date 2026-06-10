@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="Onncovida .jpeg" alt="Estrutura do Projeto ONNCOVIDA" width="100%">
+</div>
+
+
 # onncovida
 Análise de dados psicossociais e biomarcadores em oncologia - câncer de mama.
 
