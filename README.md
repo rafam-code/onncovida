@@ -2,7 +2,7 @@
 Análise de dados psicossociais e biomarcadores em oncologia - câncer de mama.
 
 
-## 🎀 Sobre o Projeto ONNCOVIDA
+## 🎀 Sobre o Projeto 
 
 O **ONNCOVIDA** é um projeto de pesquisa que investiga a complexa correlação entre **fatores psicossociais** (como estresse percebido, autoimagem e autoestima) e **biomarcadores biológicos** em pacientes oncológicas. 
 
